@@ -42,3 +42,4 @@ mtcars$am
 mtcars$am <- factor(mtcars$am, levels = c(0, 1), labels = c("Automatic", "Manual"))
 mtcars$mpg
 mtcars$am
+
